@@ -1,9 +1,8 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
  * _islower - Entry point
- * @c: checks for lowercase character
+ * @c: contains value to be compared
  * Return: 0
 */
 
