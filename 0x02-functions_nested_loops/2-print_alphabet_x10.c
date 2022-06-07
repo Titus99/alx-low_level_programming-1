@@ -9,6 +9,7 @@
 void print_alphabet_x10(void)
 {
 	char m;
+	int j;
 
 	j = 0;
 
