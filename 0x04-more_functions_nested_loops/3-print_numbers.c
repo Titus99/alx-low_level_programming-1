@@ -2,6 +2,7 @@
 
 /**
  * print_numbers - entry point
+ * Description: prints the number from 0 to 9
  * Return: 0
 */
 
