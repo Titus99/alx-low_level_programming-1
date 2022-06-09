@@ -5,7 +5,7 @@
  * mul - Entry point
  * @a: int to be multiplied to b
  * @b: int to be multiplied to a
- * Return: result
+ * Return: 0
 */
 
 int mul(int a, int b)
@@ -14,5 +14,6 @@ int mul(int a, int b)
 
 	c = a * b;
 
-	return (c);
+	return (0);
 }
+
